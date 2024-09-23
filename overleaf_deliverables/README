@@ -1,0 +1,34 @@
+# IBAROE Overleaf Deliverables
+
+This directory contains the detailed project deliverables for the Integrated Blockchain and AI-Enabled Regulatory Oversight Ecosystem (IBAROE), originally created using Overleaf.
+
+## Contents
+
+1. `Deliverables_Breakdown_PIE_raw2190_IBAROE.pdf`: The full project deliverables document in PDF format.
+
+## Overview
+
+These documents provide an in-depth breakdown of the IBAROE project, including:
+
+- Executive Summary
+- Team Composition
+- Market Opportunity Analysis
+- Product Description
+- Business Model
+- Go-to-market Plan
+- Competitive Strategy
+- Proof of Concept
+- Financial Plan
+- Implementation Roadmap
+- Risk Analysis
+
+## Viewing the Documents
+
+- The PDF file can be viewed directly on GitHub or downloaded for local viewing.
+- The LaTeX source file (.tex) can be opened in any LaTeX editor for viewing or editing.
+
+## Using These Deliverables
+
+These deliverables serve as the foundational planning documents for the IBAROE project. They should be referenced throughout the development process to ensure alignment with the project's goals and specifications.
+
+For any questions or discussions related to these deliverables, please open an issue in the main repository.
